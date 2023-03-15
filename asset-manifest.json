@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/InnopolisProjectReact/static/css/main.4b7b8b9c.css",
+    "main.js": "/InnopolisProjectReact/static/js/main.68278d73.js",
+    "static/js/787.28cb0dcd.chunk.js": "/InnopolisProjectReact/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image-4.webp": "/InnopolisProjectReact/static/media/image-4.08fee0930edb24400934.webp",
+    "static/media/review-2.jpeg": "/InnopolisProjectReact/static/media/review-2.c6ff911b55e3a5e43b33.jpeg",
+    "static/media/review-1.jpeg": "/InnopolisProjectReact/static/media/review-1.3568d1a255e631a8e787.jpeg",
+    "static/media/color-4.webp": "/InnopolisProjectReact/static/media/color-4.967b024cfd61f6141b18.webp",
+    "static/media/color-1.webp": "/InnopolisProjectReact/static/media/color-1.cd7de2662964c9219e88.webp",
+    "static/media/color-5.webp": "/InnopolisProjectReact/static/media/color-5.8487aafef897ef546ede.webp",
+    "static/media/404.jpg": "/InnopolisProjectReact/static/media/404.b3c5ec745c3640c0147d.jpg",
+    "static/media/color-6.webp": "/InnopolisProjectReact/static/media/color-6.36e00f39f529a4c1faef.webp",
+    "static/media/color-3.webp": "/InnopolisProjectReact/static/media/color-3.2cf8adaf3e5504a8cb94.webp",
+    "static/media/image-3.webp": "/InnopolisProjectReact/static/media/image-3.6a5c5fd28dbc2fd50fa5.webp",
+    "static/media/image-1.webp": "/InnopolisProjectReact/static/media/image-1.0f112fa12248f7ef9dd2.webp",
+    "static/media/image-2.webp": "/InnopolisProjectReact/static/media/image-2.7a63dc2a67c976fc2d0b.webp",
+    "static/media/image-5.webp": "/InnopolisProjectReact/static/media/image-5.64c8a9627a3522969f79.webp",
+    "static/media/color-2.webp": "/InnopolisProjectReact/static/media/color-2.4c0946315a547632d3d3.webp",
+    "static/media/cart.svg": "/InnopolisProjectReact/static/media/cart.44644038d0240b0d2aa314a94acc0aee.svg",
+    "index.html": "/InnopolisProjectReact/index.html",
+    "static/media/favorites.svg": "/InnopolisProjectReact/static/media/favorites.f7b1ae919114d03217025c3076da4d8a.svg",
+    "static/media/heart.svg": "/InnopolisProjectReact/static/media/heart.0ed42095e7ba9ce2ead601bafc791d17.svg",
+    "main.4b7b8b9c.css.map": "/InnopolisProjectReact/static/css/main.4b7b8b9c.css.map",
+    "main.68278d73.js.map": "/InnopolisProjectReact/static/js/main.68278d73.js.map",
+    "787.28cb0dcd.chunk.js.map": "/InnopolisProjectReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7b8b9c.css",
+    "static/js/main.68278d73.js"
+  ]
+}
