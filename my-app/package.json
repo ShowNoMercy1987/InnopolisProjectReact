@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://ShowNoMercy1987.github.io/InnopolisProjectReact",
+  "homepage": "https://ShowNoMercy1987.github.io/InnopolisProjectReact",
   "dependencies": {
     "@kundinos/react-hooks": "^0.12.2",
     "@reduxjs/toolkit": "^1.9.1",
