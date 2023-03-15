@@ -1,0 +1,8 @@
+.price__off {
+    background-color: #888888 !important;
+    border: #888888;
+}
+
+.price__like_on {
+    fill: orangered;
+}

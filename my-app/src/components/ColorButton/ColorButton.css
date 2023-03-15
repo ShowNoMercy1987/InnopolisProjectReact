@@ -1,0 +1,27 @@
+.colors-box__btn {
+  display: flex;
+  box-sizing: border-box;
+  height: 80px;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #888888;
+  border-radius: 4px;
+  cursor: pointer;
+  background: transparent;
+}
+
+.colors-box__btn:hover {
+  background: #f2f2f2;
+}
+
+.colors-box__btn:active {
+  border: 2px solid #a93a09;
+  border-radius: 4px;
+}
+
+.colors-box__btn_active {
+  border: 2px solid #f36223;
+  border-radius: 4px;
+}

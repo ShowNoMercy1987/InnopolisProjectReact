@@ -1,0 +1,29 @@
+/* футер */
+.footer-box {
+  background: #f2f2f2;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 111px;
+  max-width: 1500px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.footer__copyright {
+  display: flex;
+  flex-direction: column;
+}
+
+footer > p {
+  padding: 30px 0 0 0;
+}
+
+@media (min-width: 1025px) and (max-width: 1499px) {
+  .footer {
+    width: 1024px;
+  }
+}

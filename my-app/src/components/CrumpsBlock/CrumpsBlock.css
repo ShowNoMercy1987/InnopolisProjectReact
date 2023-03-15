@@ -1,0 +1,33 @@
+/* хлебные крошки */
+.crumps {
+  display: flex;
+  align-items: center;
+  padding: 8px 50px;
+  gap: 4px;
+}
+
+.crumps_padding {
+  padding-top: 150px;
+}
+
+.childs:after {
+  content: " > ";
+}
+
+.childs:last-child::after {
+  content: "";
+}
+
+@media (min-width: 1025px) and (max-width: 1499px) { 
+  .crumps {
+    padding: 8px 15px;
+    padding-top: 150px;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 899px) {
+  .crumps_padding {
+    padding-top: 100px;
+  }
+}
+

@@ -1,0 +1,15 @@
+.advertising {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.advertising p{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #888888;
+  font-family: Arial, Helvetica, sans-serif;
+}

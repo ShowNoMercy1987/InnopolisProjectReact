@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body-box {
+  background: #f8fafe;
+}
+
+.content {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1500px;
+  margin: auto;
+}
+
+/* ссылки */
+.link-blue-color {
+  text-decoration: none;
+  color: #008cf0;
+}
+
+.link-blue-color:hover {
+  color: #c00;
+}
+
+.link-blue-color:active {
+  color: #a93a09;
+}
+
+.like-on {
+  fill: #f36223 !important;
+}
+
+.link-black-color {
+  text-decoration: none;
+  color: #000000;
+}
+
+.link-black-color:hover {
+  text-decoration: none;
+  color: #c00;
+}
+
+.link-black-color:active {
+  text-decoration: none;
+  color: #c00;
+}
+
+/* ховеры */
+.form-hover-focus:hover {
+  border: 1px solid #000000;
+  outline: none;
+}
+
+.form-hover-focus:focus {
+  outline: 1px solid #000000;
+  outline: none;
+}
+
+/* отступы */
+.inner-padding {
+  padding: 0 50px;
+}
+
+.table-cell {
+  padding: 10px;
+  text-align: center;
+}
+
+.table-border-right {
+  border-right: 1px solid #888888;
+}
+
+.margin-bottom15 {
+  margin-bottom: 15px;
+}
+
+.margin-bottom20 {
+  margin-bottom: 20px;
+}
+
+.margin-top10 {
+  margin-top: 10px;
+}
+
+.margin-top30 {
+  margin-top: 30px;
+}
+
+.margin-top60 {
+  margin-top: 60px;
+}
+
+.margin-top100 {
+  margin-top: 100px;
+}
+
+/* ширина и высота */
+
+/* текст */
+.orange-text {
+  color: #ff5722;
+}
+
+.burger-title {
+  font-size: 26px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+
+.h1-title {
+  font-size: 48px;
+  text-decoration: none;
+}
+
+.section-titile {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.block-title {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.review-title {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.reviews-count {
+  color: #aaaaaa;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.rewiews-user {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.orange-text {
+  color: #f52;
+}
+
+.font-size14 {
+  font-size: 14px;
+}
+
+.symbol-bold {
+  font-weight: 900;
+}
+
+@media (min-width: 1025px) and (max-width: 1499px) {
+  .content {
+    width: 1024px;
+  }
+
+  .inner-padding {
+    padding: 0 15px;
+  }
+
+  .wrapper {
+    gap: 40px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1024px) {
+  .content {
+    width: 900px;
+  }
+
+  .crumps_padding {
+    padding-top: 90px;
+  }
+
+  .inner-padding {
+    padding: 0px 10px;
+  }
+}
+
+/*-------------------------------------------------------------*/
+@media (min-width: 700px) and (max-width: 899px) {
+  .lock {
+    overflow: hidden;
+  }
+
+  .content {
+    width: 700px;
+  }
+
+  .inner-padding {
+    padding: 0px 10px;
+  }
+}
